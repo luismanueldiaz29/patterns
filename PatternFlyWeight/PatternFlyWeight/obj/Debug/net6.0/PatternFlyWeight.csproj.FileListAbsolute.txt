@@ -1,0 +1,17 @@
+C:\Users\odmorales\source\repos\Patterns\patterns\PatternFlyWeight\PatternFlyWeight\bin\Debug\net6.0\PatternFlyWeight.exe
+C:\Users\odmorales\source\repos\Patterns\patterns\PatternFlyWeight\PatternFlyWeight\bin\Debug\net6.0\PatternFlyWeight.deps.json
+C:\Users\odmorales\source\repos\Patterns\patterns\PatternFlyWeight\PatternFlyWeight\bin\Debug\net6.0\PatternFlyWeight.runtimeconfig.json
+C:\Users\odmorales\source\repos\Patterns\patterns\PatternFlyWeight\PatternFlyWeight\bin\Debug\net6.0\PatternFlyWeight.dll
+C:\Users\odmorales\source\repos\Patterns\patterns\PatternFlyWeight\PatternFlyWeight\bin\Debug\net6.0\PatternFlyWeight.pdb
+C:\Users\odmorales\source\repos\Patterns\patterns\PatternFlyWeight\PatternFlyWeight\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\odmorales\source\repos\Patterns\patterns\PatternFlyWeight\PatternFlyWeight\obj\Debug\net6.0\PatternFlyWeight.csproj.AssemblyReference.cache
+C:\Users\odmorales\source\repos\Patterns\patterns\PatternFlyWeight\PatternFlyWeight\obj\Debug\net6.0\PatternFlyWeight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odmorales\source\repos\Patterns\patterns\PatternFlyWeight\PatternFlyWeight\obj\Debug\net6.0\PatternFlyWeight.AssemblyInfoInputs.cache
+C:\Users\odmorales\source\repos\Patterns\patterns\PatternFlyWeight\PatternFlyWeight\obj\Debug\net6.0\PatternFlyWeight.AssemblyInfo.cs
+C:\Users\odmorales\source\repos\Patterns\patterns\PatternFlyWeight\PatternFlyWeight\obj\Debug\net6.0\PatternFlyWeight.csproj.CoreCompileInputs.cache
+C:\Users\odmorales\source\repos\Patterns\patterns\PatternFlyWeight\PatternFlyWeight\obj\Debug\net6.0\PatternFlyWeight.csproj.CopyComplete
+C:\Users\odmorales\source\repos\Patterns\patterns\PatternFlyWeight\PatternFlyWeight\obj\Debug\net6.0\PatternFlyWeight.dll
+C:\Users\odmorales\source\repos\Patterns\patterns\PatternFlyWeight\PatternFlyWeight\obj\Debug\net6.0\refint\PatternFlyWeight.dll
+C:\Users\odmorales\source\repos\Patterns\patterns\PatternFlyWeight\PatternFlyWeight\obj\Debug\net6.0\PatternFlyWeight.pdb
+C:\Users\odmorales\source\repos\Patterns\patterns\PatternFlyWeight\PatternFlyWeight\obj\Debug\net6.0\PatternFlyWeight.genruntimeconfig.cache
+C:\Users\odmorales\source\repos\Patterns\patterns\PatternFlyWeight\PatternFlyWeight\obj\Debug\net6.0\ref\PatternFlyWeight.dll
